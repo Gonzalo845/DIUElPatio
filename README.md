@@ -73,12 +73,10 @@ Miembros
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+>>> ![UserJourney2](P1/Practica2/EmpathyCustomerMap[DIU23]1.png)
+>>> ![UserJourney2](P1/Practica2/EmpathyCustomerMap[DIU23]2.png)
+>>>
+>>> 
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
