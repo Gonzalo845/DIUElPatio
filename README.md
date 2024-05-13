@@ -116,8 +116,9 @@ Miembros
 
 >>> ![Moonboard](P3/Practica3/Moonboard.png)
 >>> ![Logotipo](P3/Practica3/logo/logo/logo.png)
-
+>>> 
 >>> He usado la herramienta que nos recomendaba, la página web https://www.designevo.com/
+>>> 
 >>> En mi caso, el logotipo si podría usarse para Twitter y otras redes sociales, así como el canal del servidor de Discord.
 
 
