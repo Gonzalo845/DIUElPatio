@@ -82,12 +82,13 @@ Miembros
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P2/Practica2/scope_canvas_5_print_es.pdf
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P2/Practica2/Tabla%20tareas.pdf
+>>> ![Userflow](P1/Practica2/Userflow.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
