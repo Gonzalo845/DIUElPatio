@@ -96,7 +96,7 @@ Miembros
 ----
 
 
->>> ![Userflow](P2/Practica2/Sitemap.png)
+>>> ![Sitemap](P2/Practica2/Sitemap.png)
 >>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P2/Practica2/Etiquetado.pdf
 
 
@@ -114,9 +114,10 @@ Miembros
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>>> ![Moonboard](P3/Practica3/Moonboard.png)
+>>> ![Logotipo](P3/Practica3/logo/logo/logo.png)
+>>> He usado la herramienta que nos recomendaba, la página web https://www.designevo.com/
+>>> En mi caso, el logotipo si podría usarse para Twitter y otras redes sociales, así como el canal del servidor de Discord.
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
