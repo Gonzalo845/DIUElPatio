@@ -58,11 +58,12 @@ Miembros
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento: https://github.com/Gonzalo845/DIUElPatio/blob/master/P1/Practica1/Usability%20review.xlsx
+>>> - Valoración final (numérica): 58
+>>> - Comentario sobre la valoración:  La página web tiene muchos desperfectos, sobre todo en el tema de rendimiento (tiempos de carga largos) y el desconocimiento
+>>>   de si hemos interactuado con la página o no al pulsar algo (no hay respuesta hasta que carga, y como tarda en cargar, se empeora), además de que el apartado
+>>>   de actividades es lioso y no deja claro en qué consiste cada actividad. Por último añadir que no hay ayuda de búsqueda avanzada para aquellos que saben lo
+>>>   que quieren, además de tener que subir arriba del todo de la págian web cada vez que se quiera navegar por esta.
 
 
 ## Paso 2. UX Design  
