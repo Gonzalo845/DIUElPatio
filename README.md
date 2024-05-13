@@ -12,7 +12,7 @@ Descripción:
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo:
-![Método UX](img/logo.png)
+>>> ![logo](img/logo.png)
 
 Miembros
  * :bust_in_silhouette:   AA     :octocat:     
