@@ -126,25 +126,24 @@ Miembros
 ----
 
 
->>> Plantear Landing Page 
+>>> ![LandingPage](P3/Practica3/LandingPage.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P3/Practica3/Guidelines.pdf
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> https://www.figma.com/design/vW0Tlnn42fzTSzbBhVwjWu/Material-3-Design-Kit-(Community)?node-id=54795%3A26397&t=FC7wHYxCWIjB7uKw-1
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
 
->>> Publicar my Case Study en Github..
+>>> Publicar my Case Study en Github.. --> No se a que se refiere con esto
 >>> Documente y resuma el diseño de su producto
 
 
