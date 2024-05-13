@@ -1,8 +1,8 @@
 # DIU24
 Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
 
-Grupo: DIU1_01AABB.  Curso: 2023/24 
-Updated: 11/2/2024
+Grupo: DIU1_ElPatio.  Curso: 2023/24 
+Updated: 13/5/2024
 
 Proyecto: 
 >>> Página web para un servidor de un videojuego
