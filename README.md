@@ -76,13 +76,7 @@ Miembros
 >>> ![UserJourney2](P1/Practica2/EmpathyCustomerMap[DIU23]1.png)
 >>> ![UserJourney2](P1/Practica2/EmpathyCustomerMap[DIU23]2.png)
 >>>
->>> 
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P2/Practica2/Descripci%C3%B3n%20proyecto%20pr%C3%A1ctica%202.pdf
 
 
 
