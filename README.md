@@ -136,7 +136,7 @@ Miembros
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> https://www.figma.com/design/vW0Tlnn42fzTSzbBhVwjWu/Material-3-Design-Kit-(Community)?node-id=54795%3A26397&t=FC7wHYxCWIjB7uKw-1
+>>> https://www.figma.com/design/vW0Tlnn42fzTSzbBhVwjWu/Material-3-Design-Kit-(Community)?t=FC7wHYxCWIjB7uKw-1
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
