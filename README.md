@@ -30,7 +30,7 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+>>> ![UX](P1/Practica1/P1-2b_User_Research_Plan_Terminada.pdf)
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
