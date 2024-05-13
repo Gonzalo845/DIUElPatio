@@ -35,18 +35,26 @@ Miembros
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+>>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P1/Practica1/Competitive%20Analysis.pdf
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+>>> He seleccionado a estas dos personas porque representan cada uno una parte de los usuarios que tienen mayores problemas a la hora
+>>> de navegar por la web, o que tienen problemas que pueden influir en sus decisiones (Eustaquio tiene movilidad reducida, mientras que Ada
+>>> no sabe español)
+>>> ![Persona1](P1/Practica1/Persona1.png)
+>>> ![Persona2](P1/Practica1/Persona2.png)
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+>>> He escogido estas dos experiencias de usuario porque son más comunes de lo que puede parecer, solo que como nosotros no nos encontramos estos problemas tan
+>>> a menudo (No todo el mundo tiene problemas de movilidad y muchos sabemos ingles para poder navegar por otras páginas, o español en este caso) pensamos que
+>>> no suelen ser comunes.
+>>> ![UserJourney1](P1/Practica1/User_journey1.png)
+>>> ![UserJourney2](P1/Practica1/User_journey2.png)
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
