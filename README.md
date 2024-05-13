@@ -15,7 +15,7 @@ Descripción:
 >>> - Comprar en la tienda beneficios para el juego
 
 Logotipo:
->>> ![logo](img/logo.png)
+>>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P1/Practica1/P1-2b%20User%20Research%20Plan%20Terminada.pdf
 
 Miembros
  * :bust_in_silhouette:   Gonzalo Alganza Luque     :octocat:     
