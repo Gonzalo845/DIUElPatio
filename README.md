@@ -15,7 +15,7 @@ Descripción:
 >>> - Comprar en la tienda beneficios para el juego
 
 Logotipo:
->>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P1/Practica1/P1-2b%20User%20Research%20Plan%20Terminada.pdf
+>>> ![Logo](img/logo.png)
 
 Miembros
  * :bust_in_silhouette:   Gonzalo Alganza Luque     :octocat:     
@@ -30,7 +30,7 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> ![UX](P1/Practica1/P1-2b_User_Research_Plan_Terminada.pdf)
+>>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P1/Practica1/P1-2b%20User%20Research%20Plan%20Terminada.pdf
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
