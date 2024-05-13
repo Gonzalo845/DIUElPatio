@@ -9,21 +9,18 @@ Proyecto:
 
 Descripción:
 
->>> Describa la idea de su producto en la práctica 2 
+>>> La idea consiste en una página web dedicada a un servidor de un videojuego concreto, mediante la cual los usuarios podrán hacer cosas como, entre otros:
+>>> - Participar en torneos y actividades
+>>> - Hablar por el foro del servidor
+>>> - Comprar en la tienda beneficios para el juego
 
 Logotipo:
 >>> ![logo](img/logo.png)
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:   BB     :octocat:
+ * :bust_in_silhouette:   Gonzalo Alganza Luque     :octocat:     
    
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
