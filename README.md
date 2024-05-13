@@ -73,8 +73,8 @@ Miembros
 ----
 
 
->>> ![UserJourney2](P1/Practica2/EmpathyCustomerMap[DIU23]1.png)
->>> ![UserJourney2](P1/Practica2/EmpathyCustomerMap[DIU23]2.png)
+>>> ![UserJourney2](P2/Practica2/EmpathyCustomerMap[DIU23]1.png)
+>>> ![UserJourney2](P2/Practica2/EmpathyCustomerMap[DIU23]2.png)
 >>>
 >>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P2/Practica2/Descripci%C3%B3n%20proyecto%20pr%C3%A1ctica%202.pdf
 
@@ -88,7 +88,7 @@ Miembros
 -----
 
 >>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P2/Practica2/Tabla%20tareas.pdf
->>> ![Userflow](P1/Practica2/Userflow.png)
+>>> ![Userflow](P2/Practica2/Userflow.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
