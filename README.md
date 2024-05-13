@@ -5,14 +5,14 @@ Grupo: DIU1_01AABB.  Curso: 2023/24
 Updated: 11/2/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Página web para un servidor de un videojuego
 
-Descripción: ![Método UX](img/Competitive.png)
+Descripción:
 
 >>> Describa la idea de su producto en la práctica 2 
 
-Logotipo: 
->>> 
+Logotipo:
+![Método UX](img/logo.png)
 
 Miembros
  * :bust_in_silhouette:   AA     :octocat:     
