@@ -7,7 +7,7 @@ Updated: 11/2/2024
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
 
-Descripción: (img/logo.png)
+Descripción: ![Método UX](img/Competitive.png)
 
 >>> Describa la idea de su producto en la práctica 2 
 
