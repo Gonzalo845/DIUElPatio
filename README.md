@@ -88,6 +88,7 @@ Miembros
 -----
 
 >>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P2/Practica2/Tabla%20tareas.pdf
+>>> 
 >>> ![Userflow](P2/Practica2/Userflow.png)
 
 
@@ -95,17 +96,15 @@ Miembros
 ----
 
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+>>> ![Userflow](P2/Practica2/Sitemap.png)
+>>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P2/Practica2/Etiquetado.pdf
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P2/Practica2/Bocetos.pdf
+>>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P2/Practica2/Wireframe.pdf
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
