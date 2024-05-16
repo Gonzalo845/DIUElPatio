@@ -113,7 +113,8 @@ Miembros
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
+>>> Aquí adjunto el Moonboard y el logotipo
+>>> 
 >>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P3/Practica3/Moonboard.png
 >>> ![Logotipo](P3/Practica3/logo/logo/logo.png)
 >>> 
@@ -125,17 +126,20 @@ Miembros
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
+>>> Aquí adjunto la Landing Page que he creado.
+>>> 
 >>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P3/Practica3/LandingPage.png
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
-
+>>> Aquí adjunto los patrones que he empleado principalmente.
+>>> 
 >>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P3/Practica3/Guidelines.pdf
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
-
+>>> Aquí adjunto el trabajo en figma.
+>>> 
 >>> https://www.figma.com/design/vW0Tlnn42fzTSzbBhVwjWu/Material-3-Design-Kit-(Community)?t=FC7wHYxCWIjB7uKw-1
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
