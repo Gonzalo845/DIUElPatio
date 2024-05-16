@@ -114,7 +114,7 @@ Miembros
 -----
 
 
->>> ![Moonboard](P3/Practica3/Moonboard.png)
+>>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P3/Practica3/Moonboard.png
 >>> ![Logotipo](P3/Practica3/logo/logo/logo.png)
 >>> 
 >>> He usado la herramienta que nos recomendaba, la página web https://www.designevo.com/
@@ -126,7 +126,7 @@ Miembros
 ----
 
 
->>> ![LandingPage](P3/Practica3/LandingPage.png)
+>>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P3/Practica3/LandingPage.png
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
