@@ -114,7 +114,7 @@ Miembros
 -----
 
 
->>> ![Moonboard](P3/Practica3/Moonboard.png)
+>>> ![Moonboard](P3/Practica3/Moonboar.png)
 >>> ![Logotipo](P3/Practica3/logo/logo/logo.png)
 >>> 
 >>> He usado la herramienta que nos recomendaba, la página web https://www.designevo.com/
@@ -126,7 +126,7 @@ Miembros
 ----
 
 
->>> ![LandingPage](P3/Practica3/LandingPage.png)
+>>> ![LandingPage](P3/Practica3/LandingPge.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -137,15 +137,6 @@ Miembros
 ----
 
 >>> https://www.figma.com/design/vW0Tlnn42fzTSzbBhVwjWu/Material-3-Design-Kit-(Community)?t=FC7wHYxCWIjB7uKw-1
-
-
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
-
-
->>> Publicar my Case Study en Github.. --> No se a que se refiere con esto
->>> Documente y resuma el diseño de su producto
-
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
