@@ -145,8 +145,12 @@ Miembros
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
 >>> Por último, adjunto los archivos del cuestionario SUS y el documento en el que desarrollo que es lo que he visto de la práctica del grupo "LoQueTeApetezca".
->>>
 >>> 
+>>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P4/Cuestionario%20SUS%20DIU.xlsx
+>>> 
+>>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P4/DIU_report-template-usability-test23.odt
+>>>
+>>> Para abrirlos, hay que pulsar donde ponew "View raw"
 
 
 
