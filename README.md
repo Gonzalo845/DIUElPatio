@@ -150,7 +150,7 @@ Miembros
 >>> 
 >>> https://github.com/Gonzalo845/DIUElPatio/blob/master/P4/DIU_report-template-usability-test23.odt
 >>>
->>> Para abrirlos, hay que pulsar donde ponew "View raw"
+>>> Para abrirlos, hay que pulsar donde pone "View raw"
 
 
 
